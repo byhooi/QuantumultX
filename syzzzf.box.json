@@ -1,18 +1,10 @@
 {
-	"id": "syzzzf.app.sub",
-	"name": "syzzzf应用订阅",
-	"author": "@syzzzf",
+	"id": "testflight",
+	"name": "tf监控",
+	"author": "@byhooi",
 	"icon": "",
-	"repo": "https://github.com/songyangzz/QxScripts",
+	"repo": "https://github.com/byhooi/QuantumultX",
 	"apps": [{
-			"id": "elemSign",
-			"name": "饿了么签到",
-			"keys": ["cookie_elem"],
-			"author": "@syzzzf",
-			"repo": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js",
-			"icons": ["https://raw.githubusercontent.com/Orz-3/task/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
-		},
-		{
 			"id": "testflight",
 			"name": "tf监控",
 			"keys": [],
@@ -35,8 +27,8 @@
 				"rows": 1,
 				"desc": "false没有tf位置将不会通知只记录日志"
 			}],
-			"author": "@syzzzf",
-			"repo": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js",
+			"author": "@byhooi",
+			"repo": "https://raw.githubusercontent.com/byhooi/QuantumultX/master/testflight.js",
 			"icons": ["https://raw.githubusercontent.com/Orz-3/task/master/testflight.png", "https://raw.githubusercontent.com/Orz-3/task/master/testflight.png"]
 		}
 	]
