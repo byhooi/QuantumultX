@@ -3,7 +3,7 @@
 	"name": "TF监控",
 	"author": "@byhooi",
 	"icon": "",
-	"repo": "https://github.com/songyangzz/QxScripts",
+	"repo": "https://github.com/byhooi/QxScripts",
 	"apps": [{
 			"id": "elemSign",
 			"name": "饿了么签到",
