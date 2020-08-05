@@ -6,7 +6,7 @@
 	"repo": "https://github.com/byhooi/QuantumultX",
 	"apps": [{
 			"id": "testflight",
-			"name": "tf监控",
+			"name": "TestFlight监控",
 			"keys": [],
 			"settings": [{
 				"id": "appkey",
